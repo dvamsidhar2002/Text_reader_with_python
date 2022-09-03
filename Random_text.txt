@@ -1,0 +1,10 @@
+A lot is happening in the world of Python. Support for Python 2 is ending, more and more companies are referencing Python in job descriptions and it continues to gain new libraries and more support.
+
+Since there is so much changing so fast, we got some of our favorite articles. We hope they help you on your Python programming journey.
+
+Python 2 EOL: How to survive the end of Python 2
+Python 2 support ends in 2020. Here’s what you can do if you’re stuck with Python 2 in what is fast becoming a Python 3 world
+
+By Serdar Yegulalp
+
+On January 1, 2020, the 2.x branch of the Python programming language will no longer be supported by its creators, the Python Software Foundation. This date will mark the culmination of a drama that has stretched on for years — the transition from an older, less capable, widely used version of Python to a newer, more powerful version that still trails its predecessor in adoption.
